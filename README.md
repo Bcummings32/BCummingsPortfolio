@@ -1,4 +1,4 @@
-# BCummingsPortfolio
+# Cummings Portfolio
 
 https://bcummings32.github.io/BCummingsPortfolio/index.html
 
@@ -7,8 +7,14 @@ and two of my homework assignments.
 
 It also links to my contact information, linkedIn page, Facebook and resume.
 
-Technologies Used:
+## Technologies Used:
 HTML5
 Bootstrap
 Javascript
 Jquery
+
+## License
+MIT
+
+## Contact
+bncmmngs@aol.com
